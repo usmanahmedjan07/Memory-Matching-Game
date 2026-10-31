@@ -2,8 +2,11 @@
 
 A responsive browser-based memory card game with five difficulty levels.
 
-## Play
-Open **[Memory Matching Game](https://usmanahmedjan07.github.io/Memory-Matching-Game/)** after GitHub Pages is enabled.
+## 🎮 Play Now
+
+**[▶ PLAY MEMORY MATCHING GAME](https://usmanahmedjan07.github.io/Memory-Matching-Game/)**
+
+Click the link above to open and play the game directly in your browser. No download or installation required!
 
 ## Features
 - Five board sizes: Gentle, Easy, Medium, Hard, and Expert
@@ -17,4 +20,4 @@ Open **[Memory Matching Game](https://usmanahmedjan07.github.io/Memory-Matching-
 Download or clone this repository and open `index.html` in a modern browser.
 
 ## Deployment
-This is a static website. In the repository, open **Settings → Pages**, select **Deploy from a branch**, choose **main** and **/(root)**, then save.
+This is a static website hosted with GitHub Pages.
